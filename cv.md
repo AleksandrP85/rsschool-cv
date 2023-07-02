@@ -16,7 +16,10 @@ It became interesting not only how computer hardware works, but also how program
 *VS & VS code
 *Git
 *AD
-*******
+******
+##Courses:
+*Specialist at MSTU Bauman JavaScript Basics*
+******
 ##Language:
 *Russian - Native
 *English - Basics
